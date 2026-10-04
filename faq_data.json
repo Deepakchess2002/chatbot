@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "category": "General & Student Support",
+    "question": "What are the library timings?",
+    "variations": [
+      "When does the library open and close?",
+      "Library working hours",
+      "Is the library open on weekends?",
+      "Can I access the library late at night?"
+    ],
+    "answer": "The central library is open from 8:00 AM to 8:00 PM on working days (Monday to Saturday) and 9:00 AM to 2:00 PM on Sundays. Extended hours till 11:00 PM are applicable during examination periods."
+  },
+  {
+    "id": 2,
+    "category": "General & Student Support",
+    "question": "How can I apply for a bonafide certificate?",
+    "variations": [
+      "Where to get bonafide certificate?",
+      "Procedure for bonafide application",
+      "How to request student bonafide letter?",
+      "Bonafide certificate process"
+    ],
+    "answer": "You can apply for a bonafide certificate online through the Student Portal under 'Requests & Certificates' or submit a physical application form at the Academic Office (Window No. 4) along with your college ID card. Processing takes 1-2 working days."
+  },
+  {
+    "id": 3,
+    "category": "Examinations",
+    "question": "When are the semester exams held?",
+    "variations": [
+      "Semester exam schedule",
+      "When do end term examinations start?",
+      "Semester exam dates",
+      "Date of final exams"
+    ],
+    "answer": "Odd semester examinations are typically held in November-December, while even semester examinations take place in April-May. The detailed timetable is published on the official exam portal 3 weeks before exams begin."
+  },
+  {
+    "id": 4,
+    "category": "Examinations",
+    "question": "How can I apply for exam revaluation or rechecking?",
+    "variations": [
+      "Revaluation process for exam papers",
+      "Paper rechecking fees and application",
+      "How to challenge exam marks?",
+      "Rechecking answer sheet"
+    ],
+    "answer": "Students can apply for revaluation within 10 days of result publication via the Examination Portal. A fee of ₹500 per subject applies. Results of revaluation are declared within 21 days."
+  },
+  {
+    "id": 5,
+    "category": "Examinations",
+    "question": "What is the procedure to clear arrear or backlog subjects?",
+    "variations": [
+      "How to register for supplementary exams?",
+      "Backlog exam rules and fee",
+      "Arrear exam registration date",
+      "Clearing failed subjects"
+    ],
+    "answer": "Supplementary/Arrear exams are conducted alongside regular semester examinations. You must register through the exam portal during the designated registration window and pay an arrear fee of ₹300 per paper."
+  },
+  {
+    "id": 6,
+    "category": "Examinations",
+    "question": "Where can I download my examination hall ticket or admit card?",
+    "variations": [
+      "How to download admit card?",
+      "Hall ticket download link",
+      "Exam hall ticket release date",
+      "Lost my admit card what to do"
+    ],
+    "answer": "Hall tickets are released on the Student ERP Portal 5 days prior to exams. Log in with your registration number and date of birth to download and print your hall ticket."
+  },
+  {
+    "id": 7,
+    "category": "Fees & Scholarships",
+    "question": "How can I pay my semester tuition fees online?",
+    "variations": [
+      "Tuition fee online payment portal",
+      "College fee payment modes",
+      "Is net banking or UPI accepted for fees?",
+      "Fee payment last date and fine"
+    ],
+    "answer": "Fees can be paid online via the College Payment Gateway at payments.college.edu using Credit/Debit Cards, Net Banking, or UPI. Late payment incurs a fine of ₹100 per day after the due date."
+  },
+  {
+    "id": 8,
+    "category": "Fees & Scholarships",
+    "question": "What scholarships are available and how to apply?",
+    "variations": [
+      "Merit scholarship criteria",
+      "Government scholarship portal",
+      "Scholarship for reserved categories SC ST OBC",
+      "Financial aid for students"
+    ],
+    "answer": "The college offers Merit-cum-Means Scholarships, Government Post-Matric Scholarships, and Sports Scholarships. Eligible students can apply via the Scholarship Cell portal by submitting income and marksheets before September 30."
+  },
+  {
+    "id": 9,
+    "category": "Fees & Scholarships",
+    "question": "What is the fee refund policy upon course cancellation?",
+    "variations": [
+      "Can I get a fee refund if I drop out?",
+      "Admission cancellation fee refund rules",
+      "Refund deduction charges"
+    ],
+    "answer": "Fee refunds follow UGC guidelines: 100% refund if cancelled 15 days before formal admission closing date, 90% within 15 days, 80% within 15 days after closing date, and 0% after 30 days."
+  },
+  {
+    "id": 10,
+    "category": "Time Table & Academic Calendar",
+    "question": "Where can I view my class timetable and academic calendar?",
+    "variations": [
+      "Academic calendar download",
+      "Class routine timetable",
+      "Semester schedule and holidays list",
+      "When do classes start?"
+    ],
+    "answer": "The official Academic Calendar and departmental class timetables are accessible on the college website under the 'Academics' tab and on student noticeboards at the start of each semester."
+  },
+  {
+    "id": 11,
+    "category": "Time Table & Academic Calendar",
+    "question": "What is the minimum attendance requirement to appear for exams?",
+    "variations": [
+      "Attendance criteria for semester exams",
+      "Is 75 percent attendance mandatory?",
+      "Condonation for low attendance medical certificate",
+      "Attendance shortage penalty"
+    ],
+    "answer": "A minimum of 75% attendance is mandatory in each subject. Students with 65%-74% attendance may be granted condonation on valid medical grounds upon submitting a doctor's certificate and paying a condonation fee."
+  },
+  {
+    "id": 12,
+    "category": "Placements & Careers",
+    "question": "When do campus placement drives start for final year students?",
+    "variations": [
+      "Placement season start date",
+      "Companies visiting campus for recruitment",
+      "Campus placement eligibility criteria",
+      "Training and placement cell contact"
+    ],
+    "answer": "Campus placement drives begin in August for final year students. Over 150+ top recruitment partners visit annually. Students must maintain a minimum CGPA of 6.5 with no active backlogs to be eligible for Tier-1 companies."
+  },
+  {
+    "id": 13,
+    "category": "Placements & Careers",
+    "question": "How can I obtain a No Objection Certificate (NOC) for summer internships?",
+    "variations": [
+      "Internship NOC application procedure",
+      "How to get internship permission letter from college?",
+      "NOC for industrial training"
+    ],
+    "answer": "Submit your official internship offer letter along with an application endorsed by your Head of Department (HOD) to the Training & Placement Cell. NOCs are issued within 3 working days."
+  },
+  {
+    "id": 14,
+    "category": "Hostel & Accommodation",
+    "question": "What is the hostel fee structure and how are rooms allotted?",
+    "variations": [
+      "Hostel accommodation charges",
+      "Single double sharing room fees",
+      "Hostel room booking procedure",
+      "Hostel facilities and mess fees"
+    ],
+    "answer": "Hostel fees range from ₹45,000 to ₹75,000 per semester depending on room type (AC/Non-AC, 2-seater/3-seater), including mess charges. Room allotment is done on a first-come, first-served basis during admission."
+  },
+  {
+    "id": 15,
+    "category": "Hostel & Accommodation",
+    "question": "What are the hostel curfew timings and outing rules?",
+    "variations": [
+      "In time for hostel residents",
+      "Can hostelers go out on weekends?",
+      "Night out pass procedure",
+      "Hostel gate closing time"
+    ],
+    "answer": "The evening entry curfew is 8:30 PM for all hostel residents. Weekend night-outs or home visits require prior digital approval from parents via the Hostel Warden App."
+  },
+  {
+    "id": 16,
+    "category": "Events & Announcements",
+    "question": "When is the college annual cultural and technical fest held?",
+    "variations": [
+      "College fest dates",
+      "Annual techno-cultural festival registration",
+      "College events calendar",
+      "Sports day dates"
+    ],
+    "answer": "The Annual Technical Fest ('TechWaves') is held in February, and the Cultural Fest ('Aura') is held in March. Annual Sports Week takes place in January. Check the Events tab for registration links."
+  },
+  {
+    "id": 17,
+    "category": "General & Student Support",
+    "question": "How do I report a lost College Student ID Card and get a duplicate?",
+    "variations": [
+      "Lost ID card replacement",
+      "Duplicate ID card fee and process",
+      "Student identity card issue"
+    ],
+    "answer": "Report a lost ID card at the Administrative Office, pay a duplicate card fee of ₹200, and submit a passport photo. Your new smart ID card will be issued within 48 hours."
+  }
+]
